@@ -1,10 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-   
+    box-sizing: border-box;   
 }
-
 
 img{
     border-radius: 20px;
@@ -12,7 +10,12 @@ img{
 
 body{
     background-color: aquamarine;
-    text-align: center;
+    text-align: center;    
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 
